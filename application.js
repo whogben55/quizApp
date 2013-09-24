@@ -115,7 +115,7 @@ var incorrectAnswer = function(){
 var quizOver = function(){
     $('#down').html('GAME OVER');
     $('#down').css('margin-left','-20px');
-    $('#togo').html('<a href="http://127.0.0.1:52547/index.html">REPLAY</a>');
+    $('#togo').html('<a href="http://whogben55.github.io/quizApp">REPLAY</a>');
     
 }
 
